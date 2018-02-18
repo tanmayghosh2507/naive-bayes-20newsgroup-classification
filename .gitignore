@@ -4,8 +4,14 @@
 # Log file
 *.log
 
-# BlueJ files
+# intelliJ files
 *.ctxt
+.idea/
+.settings/
+out/
+*.iml
+*.classpath
+*.project
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
